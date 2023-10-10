@@ -9,7 +9,5 @@ public class Main {
      System.out.println("Подсчёт площади "   +  crug.getArea());
      crug.getPerimeter();
      System.out.println(crug.getPerimeter());
-
-
     }
 }
