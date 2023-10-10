@@ -24,6 +24,5 @@ public class Task02 {
         System.out.println(city.getPhone_code_of_the_city());
 
         System.out.println(city.getPostal_code_of_the_city());
-
     }
 }
